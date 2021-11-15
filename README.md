@@ -1,3 +1,3 @@
 Hello,
 
-this is my own project to create a old game named Arkanoid, which wa created in 1986.
+this is my creating project a old game named Arkanoid, which wa created in 1986.
